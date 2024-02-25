@@ -1,0 +1,10 @@
+[book]
+authors = ["sh-koh"]
+language = "fr"
+multilingual = false
+src = "src"
+title = "Mes notes"
+
+[output.html.fold]
+enable = true
+level = 0
