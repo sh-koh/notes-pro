@@ -5,8 +5,8 @@ Une adresse IP est une suite d'octet (1 octet = 8 bits) que nous allons attribue
 
 |Type|Exemple|
 |---|---|
-|IPv4| 192.168.1.125|
-|IPv6| 3FFE:FFFF:7654:FEDA:1245:BA98:3210:4562|
+|IPv4| 91.170.116.91|
+|IPv6| 2a01:e0a:97e:bfb0:1fb:3c50:7558:ada1|
 
 ## À quoi ça sert ?
 Les conversions vont nous apporter une flexibilité pour manipuler les adresses IP et les masques.
