@@ -12,10 +12,11 @@ Une adresse IP est une suite d'octet (1 octet = 8 bits) que nous allons attribue
 Les conversions vont nous apporter une flexibilité pour manipuler les adresses IP et les masques.
 
 ## Les différentes méthodes
-> ❗ Nous passerons généralement par une conversion en binaire car cela rend le processus plus simple
+<div class="warning">Nous passerons généralement par une conversion en binaire car cela rend le processus de conversion plus simple.</div>
 
 ### Décimale => Binaire
-À chaque fois que la soustraction est possible, alors la valeur du bit correspondant passe à 1, sinon 0.<br>
+À chaque fois que la soustraction est possible, alors la valeur du bit correspondant passe à 1, sinon 0.
+
 Exemple avec <span style="text-decoration:underline">**237**</span> en base décimale:
 
 |En puissance|2^7|2^6|2^5|2^4|2^3|2^2|2^1|2^0|
@@ -26,7 +27,8 @@ Exemple avec <span style="text-decoration:underline">**237**</span> en base déc
 |Résultat|  1|  1|  1|  0|  1|  1|  0|  1|
 
 ### Binaire => Décimale
-Chaque bit égal à 1 doit être converti en décimale, et ainsi additionné les autres.<br>
+Chaque bit égal à 1 doit être converti en décimale, et ainsi additionné les autres.
+
 Exemple avec <span style="text-decoration:underline">**11101101**</span> qui est égal à <span style="text-decoration:underline">**237**</span> en base décimale:
 
 |En puissance|2^7|2^6|2^5|2^4|2^3|2^2|2^1|2^0|
