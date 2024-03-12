@@ -43,7 +43,6 @@
 - [1. Navigation](cisco/2.md)
 - [2. Switch](cisco/3.md)
 - [3. Routeur](cisco/4.md)
-- [4. Sécurité](cisco/5.md)
 - [9. Bonus](cisco/9.md)
 
 # ☎️ - Réseaux et téléphonie sur IP 
