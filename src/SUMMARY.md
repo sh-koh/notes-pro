@@ -4,7 +4,7 @@
 
 # 🌐 - Bases des réseaux
 - [1. Modèle OSI et ses couches](reseaux/1.md)
-- [2. Calcul des adresses et conversions](reseaux/2.md)
+- [2. Calcul d'adresses et conversions](reseaux/2.md)
 - [3. Sous-réseaux](reseaux/3.md)
 - [4. Sur-réseaux](reseaux/4.md)
 - [5. Communications](reseaux/5.md)
@@ -37,6 +37,7 @@
 - [10. Pilotes](windows/10.md)
 - [11. Maintenance](windows/11.md)
 - [12. Fonctionnalités avancées](windows/12.md)
+- [13. Services réseau](windows/13.md)
 
 # 🔌 - Cisco
 - [0. Introduction](cisco/1.md)
